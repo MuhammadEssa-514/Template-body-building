@@ -1,0 +1,567 @@
+*{
+    margin: 0%;
+}
+#main1{
+display: flex;
+justify-content: space-between;
+height: 95vh;
+width: 100%;
+background-color: rgb(9, 52, 9);
+
+}
+.heading1{
+color: white;
+margin-top: 30vh;
+margin-right: 20vh;
+height: 120px;
+
+}
+
+.logo{
+    height:8vh;
+    width: 50px;
+    background-image: url(logo.png);
+    background-position: center;
+    background-size: cover;
+    margin-left: 40px;
+    margin-top: 30px;
+    
+}
+.nav {
+display: flex;
+margin-right:15%;
+color: white;
+font-size: 20px;
+padding:10px;
+cursor: pointer;
+}
+
+.nav li{
+list-style: none;
+margin: 17px;
+
+}
+
+.pic1{
+    height: 75vh;
+    width: 20%;
+    margin-top: 20vh;
+    position: absolute;
+    margin-left: 60vh;
+  
+}
+.para1{
+        height: 20vh;
+        width: 30%;
+        color: white;
+        margin-top: 20vh;
+        position: absolute;
+        margin-left: 70%;
+        margin-top: 30vh;
+        font-size: 20px;
+}
+.para1 button{
+    color: white;
+    background-color: rgb(25, 29, 26);
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 15px;
+    margin-top: 50px;
+    border-style: none;
+    cursor: wait;
+}
+.para1 button:hover{
+    background-color: red;
+    transition: all;
+}
+.para1 button:hover{
+transition-duration:1s;
+border-style: none;
+
+
+}
+.icon{
+    position: absolute;
+    margin-top: 60vh;
+    margin-left: 150px;
+}
+
+                             /* new section start */
+
+#main2{
+    height: 95vh;
+    width: 100%;
+    display: flex;
+}
+
+.pic2{
+    
+    height: 90vh;
+    width: 65%;
+    
+}
+.one{
+    height:50vh ;
+    width: 50%; 
+    background-image: url(exe2.png);
+    background-position: center;
+    background-size: cover;
+    
+}
+.two{
+    height:40vh ;
+    width: 28%; 
+    background-image: url(exe3.png);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-left: 357px;
+    
+    
+    
+    
+}
+
+.text1{
+    height: 90vh;
+    width: 50%;
+
+}
+.cntr{
+    margin: 90px;
+}
+.heading2{
+    font-size: 20px;
+}
+.heading2 p{
+    font-size: 20px;
+}
+.list{
+    font-size: 20px;
+    
+}
+
+                                  /* new section start --> */
+#main3{
+    height: 190vh;
+    width: 100%;
+    background-color: rgb(9, 52, 9) ;
+    margin: 0%;
+}
+.heading3{
+font-size: 30px;
+color: white;
+margin-left: 80px;
+padding-top: 40px;
+}
+.boxes{
+display: flex;
+justify-content: space-evenly;
+}
+.txtc{
+    margin: 30px;
+}
+.box1{
+    height: 70vh;
+    width:27%;
+    background-color: white;
+    box-shadow:0px 0px 30px 0 greenyellow;
+    
+    
+}
+.btn1 button{
+    color: white;
+    margin: 20px;
+    margin-left: 60px;
+    padding: 10px;
+    background-color:  rgb(9, 52, 9);
+    border-style: none;
+    border-radius: 10px;
+    cursor: wait;
+}
+
+             /* box2 */
+
+.box2{
+ height: 70vh;
+width:27%;
+background-color: white;
+box-shadow:0px 0px 30px 0 greenyellow;
+
+
+
+
+                
+}
+.btn2 button{
+ color: white;
+ margin: 20px;
+ margin-left: 60px;
+ padding: 10px;
+ background-color:  rgb(9, 52, 9);
+ border-style: none;
+ border-radius: 10px;
+cursor: wait;
+ }
+              /* box3 */
+.sprtbox{
+    height: 70vh;
+    width: 27%;
+    background-color: white;
+    margin-top: 140px;
+    margin-left: 76vh
+    
+    
+    
+}
+.btn3 button{
+    color: white;
+    margin: 20px;
+    margin-left: 60px;
+    padding: 10px;
+    background-color:  rgb(9, 52, 9);
+    border-style: none;
+    border-radius: 10px;
+   cursor: wait;
+   
+}
+                                        /* new section start */
+#main4{
+    height: 90vh;
+    width: 100%;
+
+    
+}  
+.heading5{
+    font-size: 30px;
+    padding: 40px;
+}
+.heading5 p{
+    font-size: 20px;
+}
+             
+.rect1{
+display: flex;
+
+}                                 
+.rec1{
+    height:15vh ;
+    width: 7%;
+    
+    
+}
+.rectrn1{
+    display: flex;
+}
+.paraa{
+height:15vh ;
+width: 80%;
+color:black;
+text-align: center;
+margin-left: 63px;
+
+
+
+}
+.paraa p{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.rec2{
+    height:15vh ;
+    width: 7%;   
+    
+}
+.paraaa{
+height:15vh ;
+width: 80%;
+color: black;
+text-align: center;  
+margin-left: 60px;
+}
+.rectrn2{
+    display: flex;
+}
+.paraaa p{
+    margin-top: 20px;
+    font-size: 20px;
+
+}.rec3{
+ height:15vh ;
+width: 9%;   
+}
+
+.paraaaa{
+height:15vh ;
+width: 80%;
+color: black;
+text-align: center;  
+margin-left: 60px;
+}
+.rectrn3{
+    display: flex;
+}
+.paraaaa p{
+margin-top: 20px;
+font-size: 20px;
+}
+                                    /* new rec start */
+
+
+.rect2{
+    display: flex;
+    
+    }                                 
+    .rec4{
+        height:15vh ;
+        width: 8%;
+        
+    }
+    .rectrn4{
+        display: flex;
+    }
+    .paree{
+    height:15vh ;
+    width: 80%;
+    color:black;
+    text-align: center;
+    margin-left: 63px;
+    
+    
+    
+    }
+    .paree p{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .rec5{
+        height:15vh ;
+        width: 7%;   
+    }
+    .pareee{
+    height:15vh ;
+    width: 80%;
+    
+    color: black;
+    text-align: center;  
+    margin-left: 60px;
+    }
+    .rectrn5{
+        display: flex;
+    }
+    .pareee p{
+        margin-top: 20px;
+        font-size: 20px;
+    
+    }.rec6{
+     height:15vh ;
+    width: 7%;   
+    }
+    
+    .pareeee{
+    height:15vh ;
+    width: 80%;
+   
+    color: black;
+    text-align: center;  
+    margin-left: 60px;
+    }
+    .rectrn6{
+        display: flex;
+    }
+    .pareeee p{
+    margin-top: 20px;
+    font-size: 20px;
+    }
+    
+
+
+                  /* new section start */
+
+
+#main5{
+height: 100vh;
+width: 100%;
+background-color: rgba(9, 52, 9, 0.97);
+margin: 0%;
+display: flex;
+justify-content: space-evenly;
+}
+
+.heading6{
+height: 80vh;
+width:24% ;
+font-size: 25px;
+padding: 70px;
+color: white;
+
+}
+.heading6 h1{
+    font-size: 50px;
+}
+
+.img{
+height: 100vh;
+width:35% ;
+
+}
+.form{
+height: 70vh;
+width:35% ; 
+padding: 90px;  
+
+}
+.form h1{
+    color: white;
+    font-size: 20px;
+    
+}
+.inputs{
+    
+}
+.in1{
+    
+    color:white;
+}
+.in1 input{
+    height: 50px;
+    width: 70%;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+    
+
+}
+.in2 input{
+    height: 50px;
+    width: 70%;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+    
+
+    
+}
+.in3{
+    color: white;
+    font-size: 12px;
+    
+
+    
+}
+.int4 button{
+    height: 50px;
+    width: 70%;
+    text-align: center;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow:0px 0px 30px 0 red;
+}
+
+                                    /* new secton start  */
+#main6{
+height: 80vh;
+width: 97%;
+background-color: rgba(128, 128, 128, 0.237);
+margin:0 auto;
+margin-top: 70px;
+}
+.heading7 h1{
+    font-size: 30px;
+    padding: 30px;
+}
+.bex{
+display: flex;
+justify-content:space-between;
+box-shadow:0px 0px 30px 0 red;
+
+}
+.bex1{
+height: 30vh;
+width: 15%;
+margin-top: 25vh;
+
+
+}
+.bex2{
+height: 30vh;
+width: 34%;
+margin-top:25vh ;
+box-shadow:0px 0px 30px 0 red;
+
+
+}
+
+.bex3{
+    height: 30vh;
+    width: 15%;
+    margin-top:25vh ;
+    margin-left: 7px;
+    
+    }
+.bex4{
+    height: 30vh;
+    width: 34%;
+    margin-top:25vh ;
+    margin-left: 7px;
+    box-shadow:0px 0px 30px 0 red;
+    
+}
+
+                                /* new section start */
+ #main7{
+    height: 70vh;
+    width: 100%;
+    background-color:  rgba(9, 52, 9, 0.97);
+    margin-top: 100px;
+    display: flex;
+ }                               
+ .lis1{
+    height: 65vh;
+    width: 30%;
+    font-size: 20px;
+    color: white;
+    
+ }
+ .last1{
+    margin-top: 80px;
+    margin-right: 30px;
+    float: right;
+ }
+ .lis2{
+    height: 65vh;
+    width: 30%;
+    font-size: 20px;
+    color: white;
+    margin-left: 40px;
+ }
+ .fp{
+    margin-top: 40px;
+ }
+ .last2{
+    margin-top: 80px;
+ }
+ .lis3{
+    height: 65vh;
+    width: 40%;
+    
+ }
+ #footer{
+    height: vh;
+    width: 100%;
+    background-color:gray;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    cursor: pointer;
+    font-family:cursive;
+ }
+ button:hover{
+    background-color: brown;
+
+ }
+ 
